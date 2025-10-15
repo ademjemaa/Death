@@ -1,0 +1,7 @@
+*.swp
+*.o
+death
+compiled_srcs
+Death
+debug-compiled_srcs
+debug-Death
